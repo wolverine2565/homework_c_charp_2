@@ -1,13 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Введите число");
 
-var a = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+var a = Console.ReadLine();
+var b = Math.Abs(Convert.ToInt32(a));
 
-while (a >= 100)
+while (b >= 100)
 {
-    a /= 10;
+    b /= 10;
 }
 
-var b = a % 10;
+var c = b % 10;
 
-Console.WriteLine("Вторая цифра " + b);
+Console.WriteLine(a + " -> " + c);
