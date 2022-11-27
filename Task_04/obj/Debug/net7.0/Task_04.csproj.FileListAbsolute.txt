@@ -1,0 +1,15 @@
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.csproj.AssemblyReference.cache
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.AssemblyInfoInputs.cache
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.AssemblyInfo.cs
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/bin/Debug/net7.0/Task_04
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/bin/Debug/net7.0/Task_04.deps.json
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/bin/Debug/net7.0/Task_04.runtimeconfig.json
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/bin/Debug/net7.0/Task_04.dll
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/bin/Debug/net7.0/Task_04.pdb
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.dll
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/refint/Task_04.dll
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.pdb
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/Task_04.genruntimeconfig.cache
+/Users/nikolaydanyukin/Desktop/homework_c_charp_2/Task_04/obj/Debug/net7.0/ref/Task_04.dll
